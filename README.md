@@ -1,6 +1,7 @@
 Project Explanation – Covid 19 Impact Analysis 
 
-Introduction  
+Introduction
+
 • The "Covid-19 Impact Analysis" project uses Python's Dash library web 
 deployment to create an interactive dashboard. 
 • This dashboard visually represents key Covid-19 metrics such as total 
@@ -12,8 +13,10 @@ oxygen. The goal is to make complex pandemic data easy to understand
 through interactive visuals. 
 Data Collection 
 • I gathered a curated dataset from a CSV file, encompassing comprehensive 
-information on Covid-19 cases. 
+information on Covid-19 cases.
+
 Libraries Used  
+
 • numpy and pandas for data manipulation and analysis. 
 • plotly.graph_objs and plotly.express for creating interactive plots. 
 • dash for web application development. 
